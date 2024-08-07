@@ -1,6 +1,6 @@
 ## RCNet: Deep Recurrent Collaborative Network for Multi-View Low-Light Image Enhancement
 
-[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Liang_Coherent_Event_Guided_Low-Light_Video_Enhancement_ICCV_2023_paper.html) | [Project Page](https://sherrycattt.github.io/EvLowLight/)
+[Paper](https://github.com/hluo29/RCNet) | [Project Page](https://github.com/hluo29/RCNet)
 
 
 [Hao Luo](https://github.com/hluo29/RCNet)<sup>1</sup>, [Baoliang Chen](https://baoliang93.github.io/)<sup>2</sup>, [Lingyu Zhu](https://github.com/hluo29/RCNet)<sup>1</sup>, [Peilin Chen](https://github.com/hluo29/RCNet)<sup>1</sup>, [Shiqi Wang](https://scholar.google.com.hk/citations?hl=en&user=Pr7s2VUAAAAJ&view_op=list_works&sortby=pubdate)<sup>1</sup>
@@ -8,7 +8,7 @@
 <sup>1</sup>City University of Hong Kong<br><sup>2</sup>South China Normal University
 
 <p align="center">
-    <img src="docs/static/images/teaser.jpg">
+    <img src="docs/static/images/fig-dataset-statistics-response.pdf">
 </p>
 
 ---
