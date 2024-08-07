@@ -8,13 +8,13 @@
 <sup>1</sup>City University of Hong Kong<br><sup>2</sup>South China Normal University
 
 <p align="center">
-    <img src="docs/static/images/fig-dataset-statistics-response.pdf">
+    <img src="docs/static/images/fig-dataset-statistics.png">
 </p>
 
 ---
 
 <p align="center">
-    <img src="docs/static/images/method-v8.jpg">
+    <img src="docs/static/images/fig3-framework.png">
 </p>
 
 :star:If RCNet is helpful for you, please help star this repo. Thanks!:hugs:
