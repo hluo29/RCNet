@@ -28,9 +28,9 @@
 
 ## <a name="todo"></a>TODO
 
-- [x] Release inference code and pretrained models.
-- [x] Update links to paper and project page.
-- [x] Provide a runtime environment Docker image.
+- [ ] Release inference code and pretrained models.
+- [ ] Update links to paper and project page.
+- [ ] Provide a runtime environment Docker image.
 - [ ] Release train code and training set.
 
 The code and pretrained model will be made available soon.
