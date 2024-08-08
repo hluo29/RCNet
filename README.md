@@ -24,15 +24,15 @@
 - [TODO](#todo)
 - [Data Preparation](#data)
 - [Installation](#env)
-- [Training](#training)
 - [Inference](#inference)
+- [Training](#training)
 
 ## <a name="todo"></a>TODO
 
-- [ ] Release inference code and pretrained models.
 - [ ] Update link to paper and Release the MVLT dataset.
 - [ ] Provide a runtime environment installation.
-- [ ] Release training, inference code and pretrained models.
+- [ ] Release inference code and pretrained models.
+- [ ] Release training code.
 
 The code and pretrained model will be made available soon.
 
