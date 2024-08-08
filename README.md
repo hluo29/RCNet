@@ -31,11 +31,12 @@
 
 - [ ] Release inference code and pretrained models.
 - [ ] Update link to paper and Release the MVLT dataset.
-- [ ] Provide a runtime environment with pip.
-- [ ] Release inference code and pretrained models.
-- [ ] Release train code and training set.
+- [ ] Provide a runtime environment installation.
+- [ ] Release training, inference code and pretrained models.
 
 The code and pretrained model will be made available soon.
+
+## <a name="data"></a>Data Preparation
 
 Google Driver of MVLT Dataset: https://drive.google.com/drive/folders/1QR5TgocnWFGx2Qk75yEfqmJwvnD2CqWx?usp=sharing
 
