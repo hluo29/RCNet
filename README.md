@@ -23,16 +23,26 @@
 
 - [TODO](#todo)
 - [Data Preparation](#data)
+- [Installation](#env)
 - [Training](#training)
 - [Inference](#inference)
 
 ## <a name="todo"></a>TODO
 
 - [ ] Release inference code and pretrained models.
-- [ ] Update links to paper and project page.
-- [ ] Provide a runtime environment Docker image.
+- [ ] Update link to paper and Release the MVLT dataset.
+- [ ] Provide a runtime environment with pip.
+- [ ] Release inference code and pretrained models.
 - [ ] Release train code and training set.
 
 The code and pretrained model will be made available soon.
 
 Google Driver of MVLT Dataset: https://drive.google.com/drive/folders/1QR5TgocnWFGx2Qk75yEfqmJwvnD2CqWx?usp=sharing
+
+## Acknowledgement
+
+This project is based on [MuCAN](https://github.com/dvlab-research/Simple-SR). Thanks for their awesome work.
+
+## Contact
+
+If you have any questions, please feel free to contact with me at `hluo29-c@my.cityu.edu.hk`.
