@@ -1,6 +1,6 @@
 ## RCNet: Deep Recurrent Collaborative Network for Multi-View Low-Light Image Enhancement
 
-[Paper](https://github.com/hluo29/RCNet) | [Project Page](https://github.com/hluo29/RCNet)
+[Paper](https://github.com/hluo29/RCNet) | [arXiv](https://github.com/hluo29/RCNet)
 
 
 [Hao Luo](https://github.com/hluo29/RCNet)<sup>1</sup>, [Baoliang Chen](https://baoliang93.github.io/)<sup>2</sup>, [Lingyu Zhu](https://github.com/hluo29/RCNet)<sup>1</sup>, [Peilin Chen](https://github.com/hluo29/RCNet)<sup>1</sup>, [Shiqi Wang](https://scholar.google.com.hk/citations?hl=en&user=Pr7s2VUAAAAJ&view_op=list_works&sortby=pubdate)<sup>1</sup>
