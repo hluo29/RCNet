@@ -7,7 +7,7 @@ class Options():
 
     def initialize(self, parser):
         # data
-        parser.add_argument('--dataroot',    default='/home/cbl/LUOHAO/Datasets/Object-centric_Street_View_Dataset/v3_0496_isp_data')
+        parser.add_argument('--dataroot',    default='/home/cbl/LUOHAO/Datasets/MVLT')
         parser.add_argument('--checkpoints', default='./checkpoints')
         parser.add_argument('--savedir',     default='./checkpoints/savedir/')
         parser.add_argument('--logdir',      default='./checkpoints/logdir/')
