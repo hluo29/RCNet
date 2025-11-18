@@ -1,6 +1,6 @@
 ## RCNet: Deep Recurrent Collaborative Network for Multi-View Low-Light Image Enhancement
 
-[Paper](https://github.com/hluo29/RCNet) | [arXiv](https://github.com/hluo29/RCNet)
+[Paper](https://ieeexplore-ieee-org.ezproxy.cityu.edu.hk/abstract/document/10820442?casa_token=VLc0UgoKKbsAAAAA:wgI8GPtGxkyFxa6vX-zkmDYF_YLvMowHSr7dlmJ7xPdDvju3EsfGRHUvy5XvEiJy-0Xj_S-X) | [arXiv](https://arxiv.org/abs/2409.04363)
 
 
 [Hao Luo](https://github.com/hluo29/RCNet)<sup>1</sup>, [Baoliang Chen](https://baoliang93.github.io/)<sup>2</sup>, [Lingyu Zhu](https://github.com/hluo29/RCNet)<sup>1</sup>, [Peilin Chen](https://github.com/hluo29/RCNet)<sup>1</sup>, [Shiqi Wang](https://scholar.google.com.hk/citations?hl=en&user=Pr7s2VUAAAAJ&view_op=list_works&sortby=pubdate)<sup>1</sup>
@@ -34,15 +34,20 @@
 - [x] Release inference code and pretrained models.
 - [x] Release training code.
 
-The code and pretrained model will be made available soon.
+The code and pretrained model have be made available now!
 
 ## <a name="data"></a>Data Preparation
 
 Google Driver of MVLT Dataset: https://drive.google.com/drive/folders/1QR5TgocnWFGx2Qk75yEfqmJwvnD2CqWx?usp=sharing
 
-## Acknowledgement
+## <a name="installation"></a>Installation
+This codebase was tested with the following environment configurations. It may work with other versions.
 
-This project is based on [MuCAN](https://github.com/dvlab-research/Simple-SR). Thanks for their awesome work.
+- Ubuntu 20.04
+- CUDA 11.1
+- Python 3.8
+- PyTorch 1.7.0 + cu110
+- spatial-correlation-sampler 0.4.0
 
 ## Citation
 
@@ -59,6 +64,10 @@ Please cite us if our work is useful for your research.
   publisher={IEEE}
 }
 ```
+
+## Acknowledgement
+
+This project is based on [MuCAN](https://github.com/dvlab-research/Simple-SR). Thanks for their awesome work.
 
 ## Contact
 
