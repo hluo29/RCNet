@@ -29,10 +29,10 @@
 
 ## <a name="todo"></a>TODO
 
-- [ ] Update link to paper and Release the MVLT dataset.
-- [ ] Provide a runtime environment installation.
-- [ ] Release inference code and pretrained models.
-- [ ] Release training code.
+- [x] Update link to paper and Release the MVLT dataset.
+- [x] Provide a runtime environment installation.
+- [x] Release inference code and pretrained models.
+- [x] Release training code.
 
 The code and pretrained model will be made available soon.
 
