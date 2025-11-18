@@ -37,10 +37,9 @@
 The code and pretrained model have be made available now!
 
 ## <a name="data"></a>Data Preparation
-
 Google Driver of MVLT Dataset: https://drive.google.com/drive/folders/1QR5TgocnWFGx2Qk75yEfqmJwvnD2CqWx?usp=sharing
 
-## <a name="installation"></a>Installation
+## <a name="env"></a>Installation
 This codebase was tested with the following environment configurations. It may work with other versions.
 
 - Ubuntu 20.04
@@ -48,6 +47,16 @@ This codebase was tested with the following environment configurations. It may w
 - Python 3.8
 - PyTorch 1.7.0 + cu110
 - spatial-correlation-sampler 0.4.0
+
+## <a name="inference"></a>Inference
+```shell
+python test.py
+```
+
+## <a name="training"></a>Training
+```shell
+python train.py
+```
 
 ## Citation
 
