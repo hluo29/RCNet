@@ -44,6 +44,22 @@ Google Driver of MVLT Dataset: https://drive.google.com/drive/folders/1QR5TgocnW
 
 This project is based on [MuCAN](https://github.com/dvlab-research/Simple-SR). Thanks for their awesome work.
 
+## Citation
+
+Please cite us if our work is useful for your research.
+
+```
+@article{luo2025rcnet,
+  title={{RCNet}: Deep recurrent collaborative network for multi-view low-light image enhancement},
+  author={Luo, Hao and Chen, Baoliang and Zhu, Lingyu and Chen, Peilin and Wang, Shiqi},
+  journal={IEEE Transactions on Multimedia},
+  year={2025},
+  volume={27},
+  pages={2001-2014},
+  publisher={IEEE}
+}
+```
+
 ## Contact
 
 If you have any questions, please feel free to contact with me at `hluo29-c@my.cityu.edu.hk`.
